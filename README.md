@@ -2,6 +2,8 @@
 ![Static Badge](https://img.shields.io/badge/python-3.10-steelblue?style=plastic&color=dodgerblue)
 
 This is the classic game *Four in a Row* implemented as a console application. Players take turns choosing a column, and their chips fall to the bottommost empty space in that column. First player to get four in a row with their chips wins.
+
+![](https://github.com/ircjwin/four-in-a-row/blob/main/media/game_board.png)
 ## Instructions
 In a terminal:
 ```
